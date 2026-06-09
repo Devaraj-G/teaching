@@ -7,6 +7,7 @@ repos/
 
 # File types
 ## Documents
+*.ipynb
 *.doc
 *.docx
 *.xls
